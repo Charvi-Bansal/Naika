@@ -2,7 +2,7 @@
 ## Naari se Naika tak ka raasta 
 An initiative to provide an easily accessible resource platform to women endeavouring to improve their quality of life through skill enhancement.
 
-
+![](/naika_logo.PNG)
 
 ## Our motivation
 Our aim was to create a collective, user-friendly resource platform for women in India striving to upskill themselves in order to become financially and socially independent. 
