@@ -1,4 +1,4 @@
-# Naika
+# Naika 
 ## Naari se Naika tak ka raasta 
 An initiative to provide an easily accessible resource platform to women endeavouring to improve their quality of life through skill enhancement.
 
